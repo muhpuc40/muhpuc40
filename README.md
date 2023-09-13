@@ -1,6 +1,6 @@
 
 <div style="position: relative;">
-     <img src="github-header-image (1).png" alt="alt-text" style="width:100%">
+     <img src="githubhh.png" alt="alt-text" style="width:100%">
 </div>
 <p align="center">
   <img <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1&center=true&vCenter=true&width=435&lines=Programmer;Problem+Solver+;Web+Developer;DataBase+Coordinater" alt="Typing SVG" /></a></p>
