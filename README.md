@@ -3,8 +3,7 @@
      <img src="github-header-image (1).png" alt="alt-text" style="width:100%">
 </div>
 <p align="center">
-  <img <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1&width=435&lines=Programmer;Problem+Solver+;Web+Developer;DataBase+Coordinater" alt="Typing SVG" /></a>
-</p>
+  <img <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1&center=true&vCenter=true&width=435&lines=Programmer;Problem+Solver+;Web+Developer;DataBase+Coordinater" alt="Typing SVG" /></a></p>
 <h2 style="color: #36BCF7FF;" align="center"> < Tools / > </h2>
 <div>
   <p style="display: inline-block;" align="center">
@@ -58,11 +57,13 @@
   <a href="https://codeforces.com/profile/2211_hassan"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAACXBIWXMAAAsSAAALEgHS3X78AAAAAXNSR0IArs4c6QAAAPBQTFRFAAAAAAAAAAAAAABVVQAAVVUABkBmZhMTjFkABj5qahMTg1cABjdhYRIMZ0kADDtlZRIMZRISZU0AG4PV1zou1zow1zsu3qoE36kEGHO7GnO7uzMouzMpxJMExJUEIZf09UI19UI2/8IGHYTV1Tov36kFHYPU36kFIJf0IJf1IZf09UM2/8IGHITWHYTW1jov4KkF9UI29UM236kFHYPVH5bzIZbzIZb01Tkv1Tov3qgF3qgG4KgG6bAG9EM19EM29UM2/8EG/8IHHYPUIJbzIZXyIZbz1Dov3qgG6bAG80M29EI29EM19EM2/8EG/8EHWza9uQAAAEN0Uk5TAAECAwMDKCgoKSkpKioqKysrK7GxsbGxsbS0tLS0tO7u7u7v7+/w8PHx8fHx8/Pz8/Pz9vv7+/v7+/v7+/v7+/v7+wz0NvoAAAE4SURBVFjD7dd5T8IwGAbwdmMOEbmGyKF4IXiAeOAOnbIBwjgm3//bsDVgWrKavBJNJH3+7y9d8qbvM4REtjtYkpfB+Cfnk+VWJ8izYejX2i78fLreJ/kYhjnZAd+/1KeBgQb9CqnFAMMrKCB3WECXNwQMAfwugKVYGEVRqJkHAKnq/att229uz20e7sGBXMMjGc/DnMfBwLFHA/MihgJPLNAEAx4LuMqGQO8/AMu5CULmBgxkKm3Tssx3x+neHiTgQKY2Ipn4QWanKhTARyMK8P08FJDaLPAABWImC/hgwBKAAAQggL8CeKtN5z5pnOXKK5rrj+ojqkavd1yOrrq4wgDTPEpdUsDnV8FAyYvosp1lFsuZSirOy6riFONU3S/drer+jUaV9X1qtRVUbsn65odjbbmKbEMW+5XeXfAJ3rkAAAAASUVORK5CYII=&&label=" alt="Codeforces" /></a>
 
 </div>
-<h2 style="color: #36BCF7FF;" align=center> < Streak  & Stats / > </h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhpuc40&theme=dark&hide_border=true) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhpuc40&theme=chartreuse_dark)
+<h2 style="color: #36BCF7FF;" align=center> < Streak / > </h2>
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhpuc40&theme=dark&hide_border=true" alt="minhaj" />
+</p>
 
 <h2 style="color: #36BCF7FF;" align=center> < Statistics / > </h2>
 <p align="center">
-	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhpuc40&theme=chartreuse_dark" alt="Tonmoyhridhaan" />
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhpuc40&theme=chartreuse_dark" alt="minhaj" />
 </p>
