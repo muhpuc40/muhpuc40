@@ -28,7 +28,7 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://icongr.am/devicon/mysql-original-wordmark.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     </kbd>
     <kbd>
